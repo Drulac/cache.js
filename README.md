@@ -3,7 +3,7 @@ Little cache lib using localStorage and promises.
 
 You just have to include [cache.js](cache.js) :
 ```html
-<script type="text/javascript" src="cache.js"></script>
+<script type="text/javascript" src="https://drulac.github.io/cache.js/cache.js"></script>
 ```
 
 ## How to use
